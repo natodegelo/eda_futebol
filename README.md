@@ -11,20 +11,20 @@ Principais Insights
 1. Desempenho dos Times por Clusters
 Utilizando KMeans, os times foram agrupados com base em vitórias, derrotas, empates, gols marcados e sofridos.
 
-![Cluster de Desempenho dos Times](C:/Users/USER/analise_cluster_desempenho.png)
+![Cluster de Desempenho dos Times](imagens/analise_cluster_desempenho.png)
 
 Insight: Times como São Paulo, Cruzeiro, e Vasco pertencem ao cluster de alto desempenho, destacando sua consistência ao longo dos anos.
 
 2. Probabilidade de Vitória com Base nos Gols Marcados por Tempo
 Análise de como a probabilidade de vitória é influenciada pelos gols marcados no primeiro e segundo tempo.
 
-![Probabilidade de Vitória por Tempo](C:/Users/USER/images/probabilidade_vitoria_gols_tempo.png)
+![Probabilidade de Vitória por Tempo](imagens/probabilidade_vitoria_gols_tempo.png)
 
 Insight: Marcar gols no segundo tempo tende a aumentar a probabilidade de vitória, indicando uma possível correlação com estratégias de jogo mais eficazes no final das partidas.
 
 3. Comparação de Vitórias por Estado
 Análise das vitórias acumuladas por times de diferentes estados, destacando a força regional no futebol brasileiro.
 
-![Vitórias por Estado](C:/Users/USER/images/comparacao_vitorias_entre_estados.png)
+![Vitórias por Estado](imagens/comparacao_vitorias_entre_estados.png)
 
 Insight: Estados como São Paulo e Rio de Janeiro se destacam como os mais vitoriosos, refletindo a concentração de times fortes nessas regiões.
